@@ -1,0 +1,9 @@
+Based on the student's profile:
+- Interests: {interests}
+- Hobbies: {hobbies}
+- Academic Scores: {scores}
+
+They matched best with the following career categories:
+{career_paths}
+
+Please write 1–2 lines **explaining why each** category fits this student.
